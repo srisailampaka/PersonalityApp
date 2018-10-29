@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersonalityTestApp</string>
+    <string name="loading">Loading...</string>
+    <string name="submit">Submit</string>
+    <string name="username">UserName</string>
+    <string name="username_hint">Enter username here</string>
+    <string name="username_error">Please Enter username</string>
+    <string name="not_answer">Please answer the all questions </string>
+    <string name="network_error">Please check the connectivity </string>
+</resources>
