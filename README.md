@@ -1,12 +1,12 @@
-PersonalityApp
+PersonalityApp<br>
 
-This App implemented using following technologys and libraries
+This App implemented using following technologys and libraries<br>
 
-kotlin-android
-MVVM-architecture
-LiveData
-RX Java2
-Dagger2 DI
-Retrofit
-AppCompact Library
-Calligraphy font library
+kotlin-android<br>
+MVVM-architecture<br>
+LiveData<br>
+RX Java2<br>
+Dagger2 DI<br>
+Retrofit<br>
+AppCompact Library<br>
+Calligraphy font library<br>
