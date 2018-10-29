@@ -11,5 +11,6 @@ Retrofit<br>
 AppCompact Library<br>
 Calligraphy font library<br>
 
-
-![personalitytestapp](https://user-images.githubusercontent.com/2506261/47666065-efd99880-dba2-11e8-8ec3-0fe8f06ffd46.gif)
+ScreenShots:
+<p >
+  <img src="https://user-images.githubusercontent.com/2506261/47666065-efd99880-dba2-11e8-8ec3-0fe8f06ffd46.gif" width="300" title="Questionlist">
